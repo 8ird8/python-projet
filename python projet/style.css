@@ -1,0 +1,33 @@
+ul {
+    padding-left: 1.5rem;
+  }
+
+h1 {
+    text-align:center;
+}
+
+h5 {
+    text-align:center;
+}
+
+img {
+    margin-left: 130% ;
+    border-radius: 50%;
+    height: 200px;
+ 
+    align-items: center;
+   
+}
+#txt{
+    margin-left: 5px;
+
+}
+#MainMenu {
+    visibility: hidden;
+}
+footer {
+    visibility: hidden;
+}
+header {
+    visibility: hidden;
+}
