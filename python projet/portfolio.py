@@ -41,6 +41,9 @@ st.markdown("""
         <a class="nav-link" href="#education">Education</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="#skills"> skills</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
       </li>
     </ul>
